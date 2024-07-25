@@ -1,3 +1,8 @@
+This is a practice project of Netliy Deployment and React Vite usage.
+
+Deployment page: https://huyphung-bussiness-card.netlify.app/
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
